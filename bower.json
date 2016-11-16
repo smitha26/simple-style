@@ -1,0 +1,17 @@
+{
+  "name": "simple-style",
+  "description": "A simple styling project",
+  "main": "index.js",
+  "authors": [
+    "Ron Bravo"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
